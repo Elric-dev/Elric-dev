@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Elric-dev
-- 👀 I’m interested in Data Science, ML, AI and anything else regarding programming. I also like to read (mostly sci-fi and fantasy)
-- 🌱 I’m currently learning about Advanced Machine Learning techniques for Natural Language Processing and other AI applications as well as Database Management and Visualisation tools. 
-- 💞️ I’m looking to collaborate on Data Science, Data Analisis, ML, NLP and pretty much any AI-realted projects!
-- 📫 How to reach me: gustavo@caronte.dev
-
-<!---
-Elric-dev/Elric-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Gustavo. 
+- 👀 I’m interested in Data Science, ML, AI and anything else in that broad aread. I also like to read (mostly sci-fi and fantasy)
+- 🌱 I’m currently learning about BCI-Motor Imagery, Pipelining, Database Management and AI techniques in NeuroScience. I am very close to getting my Master's Degree in AI (Thesis discussion on late oct/2025).
+- 💞️ I’m looking to collaborate on Data Science, ML, AI, NLP and pretty much any AI-realted projects!
+- 📫 How to reach me: gmaflaroca@gmail.com
