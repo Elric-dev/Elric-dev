@@ -4,7 +4,7 @@ I am a Machine Learning and AI Engineer specializing in the architecture and dep
 
 My work centers on Python-based ecosystems*, where I leverage a deep proficiency in several programming languages to build robust, efficient, and maintainable backends for complex AI applications.
 
-** Core Expertise: **
+Core Expertise:
 
 Artificial Intelligence & ML: Designing, training, and fine-tuning models for diverse industrial applications.
 
@@ -12,7 +12,7 @@ Foundational Engineering: Building the infrastructure required to support high-p
 
 Technical Leadership: Managing the end-to-end lifecycle of technical projects from initial consultation to final delivery.
 
-* While my primary focus is Python, I maintain proficiency in a broad range of languages and frameworks to ensure seamless integration across different tech stacks.
+While my primary focus is Python, I maintain proficiency in a broad range of languages and frameworks to ensure seamless integration across different tech stacks.
 
 Professional Experience and NDAs
 
