@@ -36,8 +36,4 @@ Contact and Collaboration
 
 I am always open to discussing new challenges in the AI space or potential consulting engagements.
 
-Work: gustavo.mafla@caronte.dev
-
-Personal: Elric-dev
-
 Inquiries: Please reach out via LinkedIn or through the Caronte Developers official channels.
